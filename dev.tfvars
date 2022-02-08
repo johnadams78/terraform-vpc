@@ -1,4 +1,4 @@
-s3_bucket = "terraform-jenkins-jadams"
+s3_bucket = "jenkin-terraform-jadams2022"
 s3_folder_project = "terraform_vpc"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
